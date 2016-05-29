@@ -14,4 +14,4 @@ For resizing an image name you should write /resize/:imageName/
 Lets say for example you would like to resize the image named "Img" so you should go to the path localhost:8000/resize/Img and the new re sized images will be in the resized folder inside the bucket
 
 For printing the details in Mongo/  
-[mongo records](localhost:8000/getMongo)
+[mongo records](http://localhost:8000/getMongo)
